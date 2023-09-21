@@ -1,0 +1,16 @@
+{
+    "name": "m-test",
+    "autoload": {
+        "psr-4": {
+            "MTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MZ"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    }
+}
